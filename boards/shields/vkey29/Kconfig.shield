@@ -1,0 +1,5 @@
+config SHIELD_VKEY29_LEFT
+    def_bool $(shields_list_contains,vkey29_left)
+
+config SHIELD_VKEY29_RIGHT
+    def_bool $(shields_list_contains,vkey29_right)
