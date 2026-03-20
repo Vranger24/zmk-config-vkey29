@@ -1,7 +1,4 @@
-if SHIELD_MY_KEYBOARD_LEFT
-
-config ZMK_VKEY26
-    default "VKey29"
+if SHIELD_VKEY29_LEFT
 
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
