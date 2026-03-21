@@ -6,6 +6,7 @@
         compatible = "zmk,keymap";
 
         default_layer {
+            display-name = "Default Layer";
             bindings = <
             
                 &trans   &trans   &kp N2   &kp N3   &kp N4   &kp N5  &trans            &trans   &kp N6   &kp N7   &kp N8   &kp N9   &trans   &trans
@@ -22,6 +23,7 @@
         };
 
         upper_layer {
+            display-name = "Upper Layer";
             bindings = 
             <
                 &trans   &trans   &kp F2   &kp F3   &kp F4   &kp F5  &trans              &trans   &kp F6       &kp F7     &kp F8       &kp F9  &trans  &trans
