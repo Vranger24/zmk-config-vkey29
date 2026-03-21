@@ -38,6 +38,6 @@
                 &bt BT_DISC &bt BT_CLR &kp PSCRN &kp ESC &kp LCTRL &kp LCMD &kp SPC      &kp RET  &mo 1        &kp DEL    &trans       &trans  &trans  &kp BSLH
                 
             >;
-        }
+        };
     };
  };
