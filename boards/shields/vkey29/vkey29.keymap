@@ -15,7 +15,7 @@
 
                 &kp TAB  &kp Q    &kp S    &kp D    &kp F    &kp G                      &kp LBKT  &kp P    &kp H    &kp J    &kp K    &kp L
 
-                &kp CAPS &kp A    &kp X    &kp C    &kp V    &kp LALT                   &kp QUOTE &kp SEMI  &kp B  &kp N    &kp M &kp COMMA
+                &kp CAPS &kp A    &kp X    &kp C    &kp V    &kp LALT                   &kp SQT &kp SEMI  &kp B  &kp N    &kp M &kp COMMA
 
                 &kp LSFT &kp Z    &kp PSCRN &kp ESC &kp LCTRL &kp LCMD &kp SPC   &kp FSLH  &kp DOT  &mo 1    &kp DEL &kp MINUS &kp EQUAL &kp RET
             >;
